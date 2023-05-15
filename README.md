@@ -13,4 +13,5 @@
 \- DOMAIN-SUFFIX,science.org,Domestic<br>
 \- DOMAIN-SUFFIX,sciencedirect.com,Domestic<br>
 \- DOMAIN-SUFFIX,liebertpub.com,Domestic<br>
+\- DOMAIN-SUFFIX,oup.com,Domestic<br>
 
