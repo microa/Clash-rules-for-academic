@@ -17,3 +17,4 @@
 \- DOMAIN-SUFFIX,clarivate.com,Domestic<br>
 \- DOMAIN-SUFFIX,webofscience.com,Domestic<br>
 \- DOMAIN-SUFFIX,wiley.com,Domestic<br>
+\- DOMAIN-SUFFIX,acs.org,Domestic<br>
